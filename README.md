@@ -1,4 +1,4 @@
-# resort_website
+# My First VueJS Component
 
 ## Project setup
 ```
